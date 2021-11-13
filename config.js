@@ -13,7 +13,7 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'SAYULONET',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'SAYULONET',
 }
 
 // Sticker WM
