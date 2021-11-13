@@ -10,7 +10,7 @@ global.APIs = { // API Prefix
   xteam: 'https://api.xteam.xyz',
   zeks: 'https://api.zeks.xyz',
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = { // Ikyy69
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'SAYULONET',
   'https://api.zeks.xyz': 'SAYULONET',
