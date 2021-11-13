@@ -1,7 +1,7 @@
 let fs = require('fs')
 global.DeveloperMode = 'false' //true Or false
 global.owner = ['6287836855481','6287836855481', '6287836855481'] // Put your number here
-global.mods = ['6282331033919','6285795431803','6282164659362']  // Want some help?
+global.mods = ['6287836855481','6287836855481','6287836855481']  // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) 
 /*global.prems = ['6287836855481','6287836855481',  '6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481','6287836855481',] // Premium user has unlimited limit*/
 global.APIs = { // API Prefix
