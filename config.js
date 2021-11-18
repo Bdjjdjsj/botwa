@@ -10,10 +10,10 @@ global.APIs = { // API Prefix
   xteam: 'https://api.xteam.xyz',
   zeks: 'https://api.zeks.xyz',
 }
-global.APIKeys = { // Ikyy69
+global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'SAYULONET',
-  'https://api.zeks.xyz': 'SAYULONET',
+  'https://api.xteam.xyz': 'd8f1d39f8b897f79',
+  'https://api.zeks.xyz': 'NYXNGONTOL',
 }
 
 // Sticker WM
