@@ -12,7 +12,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd8f1d39f8b897f79',
+  'https://api.xteam.xyz': 'SAYULONET',
   'https://api.zeks.xyz': 'NYXNGONTOL',
 }
 
